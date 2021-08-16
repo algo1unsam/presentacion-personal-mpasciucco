@@ -4,7 +4,7 @@
 
 Estudiante de Tecnicatura Universitaria en programación informática
 
-![Me presento](D:\cv\fotocv.png)
+![Me presento](fotooo.jpg)
 
 ### Un poco sobre mi
 
